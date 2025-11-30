@@ -1,1 +1,5 @@
-# Math207assignment
+![task1a](task1(A).png)
+![task1b](task1(B).png)
+![task2](task2.png)
+![task3](task3.png)
+![task4](task4.png)
